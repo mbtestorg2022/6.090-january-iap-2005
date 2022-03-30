@@ -5,6 +5,7 @@ description: 'Student notes from Lecture 2. This lecture covered the following t
   like Proof by Induction, and Homework.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/d8cef17ea9d7a8c9d0927d5b4ad38873_class2.pdf
 file_type: application/pdf
+parent_uid: d54943fa-5187-a805-d568-509751968066
 resourcetype: Document
 title: class2.pdf
 uid: d8cef17e-a9d7-a8c9-d092-7d5b4ad38873

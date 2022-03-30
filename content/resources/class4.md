@@ -5,6 +5,7 @@ description: 'Student notes from Lecture 4. This lecture covered the following t
   from recursive, data structure, new recursive procedure.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/fd3f5c75ba075053990f62088f5a3798_class4.pdf
 file_type: application/pdf
+parent_uid: d54943fa-5187-a805-d568-509751968066
 resourcetype: Document
 title: class4.pdf
 uid: fd3f5c75-ba07-5053-990f-62088f5a3798
